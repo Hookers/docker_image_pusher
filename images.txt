@@ -17,3 +17,4 @@ grafana/grafana:11.0.1
 
 openim/openim-web-front:release-v3.5.1
 openim/openim-admin-front:release-v1.7
+
