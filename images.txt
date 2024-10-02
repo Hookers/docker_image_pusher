@@ -24,3 +24,5 @@ openim/openim-server:release-v3.7
 openim/openim-chat:release-v1.7
 
 bitnami/zookeeper:3.8
+
+node:14
