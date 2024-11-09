@@ -26,4 +26,6 @@
 #bitnami/zookeeper:3.8
 
 #node:14
-node:18
+#node:18
+
+mediawiki
