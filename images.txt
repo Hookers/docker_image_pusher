@@ -29,7 +29,12 @@
 #node:18
 
 #mediawiki
-ghcr.io/zitadel/zitadel:v2.64.1
-caddy
-postgres:16-alpine
+#ghcr.io/zitadel/zitadel:v2.64.1
+#caddy
+#postgres:16-alpine
 
+netbirdio/dashboard:latest
+coturn/coturn
+netbirdio/signal:latest
+netbirdio/relay:latest
+netbirdio/management:latest
