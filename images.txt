@@ -29,6 +29,7 @@
 #node:18
 
 #mediawiki
-zitadel
+ghcr.io/zitadel/zitadel:v2.64.1
 caddy
-zdb
+postgres:16-alpine
+
