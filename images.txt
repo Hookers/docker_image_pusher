@@ -40,4 +40,7 @@
 #netbirdio/relay:latest
 #netbirdio/management:latest
 
-hslr/sun-panel
+#个人面板
+#hslr/sun-panel
+#秘钥管理
+vaultwarden/server
