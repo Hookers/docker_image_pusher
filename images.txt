@@ -49,7 +49,8 @@
 #音乐标签
 #xhongc/music_tag_web
 #安卓lxc
-redroid/redroid:15.0.0-latest
-redroid/redroid:14.0.0-latest
-redroid/redroid:13.0.0-latest
-redroid/redroid:12.0.0-latest
+#redroid/redroid:15.0.0-latest
+#redroid/redroid:14.0.0-latest
+#redroid/redroid:13.0.0-latest
+#redroid/redroid:12.0.0-latest
+redroid/redroid:15.0.0_64only-latest
