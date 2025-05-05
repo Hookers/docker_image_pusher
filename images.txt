@@ -47,8 +47,9 @@
 #音乐服务器navidrome
 #deluan/navidrome
 #音乐标签
-xhongc/music_tag_web
-
+#xhongc/music_tag_web
+#安卓lxc
+redroid/redroid:15.0.0-latest
 
 
 
