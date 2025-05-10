@@ -25,6 +25,16 @@
 
 #bitnami/zookeeper:3.8
 
+#opemim更新
+mongo:7.0                      # MongoDB server image version
+prom/prometheus:v2.51.2   # Prometheus monitoring system image version
+openim/openim-web-front:release-v3.8.3
+openim/openim-admin-front:release-v1.8.4
+# OpenIM server and chat service images
+openim/openim-server:v3.8.3-patch.3
+openim/openim-chat:v1.8.4-patch.2
+
+
 #node:14
 #node:18
 
@@ -53,4 +63,4 @@
 #redroid/redroid:14.0.0-latest
 #redroid/redroid:13.0.0-latest
 #redroid/redroid:12.0.0-latest
-redroid/redroid:15.0.0_64only-latest
+#redroid/redroid:15.0.0_64only-latest
