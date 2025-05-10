@@ -26,8 +26,8 @@
 #bitnami/zookeeper:3.8
 
 #opemim更新
-mongo:7.0                      # MongoDB server image version
-prom/prometheus:v2.51.2   # Prometheus monitoring system image version
+mongo:7.0
+prom/prometheus:v2.51.2
 openim/openim-web-front:release-v3.8.3
 openim/openim-admin-front:release-v1.8.4
 # OpenIM server and chat service images
