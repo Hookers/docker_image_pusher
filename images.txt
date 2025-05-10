@@ -32,9 +32,9 @@
 #openim/openim-admin-front:release-v1.8.4
 # OpenIM server and chat service images
 #openim/openim-server:v3.8.3-patch.3
-openim/openim-server:v3.8.3-alpha.2
+#openim/openim-server:v3.8.3-alpha.2
 #openim/openim-chat:v1.8.4-patch.2
-
+openim/openim-server:v3.8.1
 
 #node:14
 #node:18
