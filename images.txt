@@ -34,7 +34,7 @@
 #openim/openim-server:v3.8.3-patch.3
 #openim/openim-server:v3.8.3-alpha.2
 #openim/openim-chat:v1.8.4-patch.2
-openim/openim-server:v3.8.1
+#openim/openim-server:v3.8.1
 
 #node:14
 #node:18
@@ -54,7 +54,7 @@ openim/openim-server:v3.8.1
 #个人面板
 #hslr/sun-panel
 #秘钥管理
-#vaultwarden/server
+vaultwarden/server
 #音乐服务器navidrome
 #deluan/navidrome
 #音乐标签
